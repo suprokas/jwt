@@ -1,0 +1,24 @@
+{
+  "name": "jwt-auth",
+  "version": "0.0.0",
+  "description": "authentication server using jwt ",
+  "main": "auth-server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suprokas/jwt.git"
+  },
+  "keywords": [
+    "auth",
+    "jwt",
+    "jwt-auth"
+  ],
+  "author": "suprokas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suprokas/jwt/issues"
+  },
+  "homepage": "https://github.com/suprokas/jwt#readme"
+}
