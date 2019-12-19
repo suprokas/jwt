@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/suprokas/jwt/issues"
   },
-  "homepage": "https://github.com/suprokas/jwt#readme"
+  "homepage": "https://github.com/suprokas/jwt#readme",
+  "devDependencies": {
+    "express": "^4.17.1"
+  }
 }
